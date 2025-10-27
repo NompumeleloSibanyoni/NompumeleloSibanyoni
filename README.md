@@ -28,66 +28,73 @@
 ---
 
 ## 🚀 Featured Projects
-📈 **[Analytics_Portfolio](https://github.com/yourusername/Analytics_Portfolio)**  
-A showcase of Python and Power BI projects — from clustering and regression to dashboards and forecasting.  
-
-💬 **[Social_Network_Analysis](https://github.com/yourusername/Social_Network_Analysis)**  
-Analyzes influence and engagement patterns in online protest data using PageRank and sentiment scoring.  
-
-🌍 **[Health_and_Water_Analytics](https://github.com/yourusername/Health_and_Water_Analytics)**  
-Data wrangling, visualization, and environmental compliance reporting using Pandas and Matplotlib.  
-
-🤖 **[Machine_Learning_Experiments](https://github.com/yourusername/Machine_Learning_Experiments)**  
-Contains experiments in classification, clustering, and predictive modeling across various datasets. 
-
 ## 🎓 Academic Projects – Wits University (Postgraduate Diploma in Data Science)
 
-### 🧭 Semester 1: Foundation of Applied Data Science
-#### 🩺 Health Analytics
-- **Project:** Predicting heart attack risk and life expectancy using logistic regression and decision trees.  
-- **Skills:** Data cleaning, feature engineering, model evaluation, AUC/ROC analysis.  
-- **Tech:** Python (pandas, scikit-learn, matplotlib).  
-- 🔗 *Repo:* [Health_Analytics_Portfolio](https://github.com/yourusername/Health_Analytics_Portfolio)
+### 🧭 Semester 1: Core Data Science Foundations
 
-#### ⚗️ Applications of Machine Learning in Chemistry
-- **Project:** K-Means clustering and PCA on multispectral Landsat-8 data for mineral classification.  
-- **Skills:** Dimensionality reduction, clustering, variance analysis, geospatial visualization.  
-- **Tech:** Python (sklearn, geopandas, matplotlib).  
-- 🔗 *Repo:* [Chemistry_ML_Applications](https://github.com/yourusername/Chemistry_ML_Applications)
+#### 🧮 COMS5021A – Mathematical and Statistical Foundations of Data Science
+- **Project:** Statistical modeling and probability-based simulations for real-world data problems.
+- **Skills:** Probability theory, distributions, statistical inference, linear algebra applications.
+- **Tech:** Python (NumPy, pandas, matplotlib).  
+- 🔗 *Repo:* [Math_Stats_Foundations](https://github.com/yourusername/Math_Stats_Foundations)
 
-#### 🧮 Data Science in Education
-- **Project:** Analyzing student performance and dropout patterns using regression and decision trees.  
-- **Skills:** Educational data analytics, visualization, reporting.  
-- **Tech:** Python, Power BI.  
-- 🔗 *Repo:* [Education_Data_Analytics](https://github.com/yourusername/Education_Data_Analytics)
+#### 💻 COMS5022A – Programming for Data Scientists
+- **Project:** Developing reproducible and modular Python scripts for data analysis and visualization.
+- **Skills:** Python programming, version control, debugging, object-oriented design.
+- **Tech:** Python, Jupyter, Git.  
+- 🔗 *Repo:* [Programming_for_Data_Scientists](https://github.com/yourusername/Programming_for_Data_Scientists)
 
-#### 🤖 Applied Machine Learning
-- **Project:** Comparative analysis of supervised models for classification (SVM, Random Forest, Logistic Regression).  
-- **Skills:** Model comparison, hyperparameter tuning, performance visualization.  
-- **Tech:** Python (scikit-learn, matplotlib, seaborn).  
+#### ⚙️ COMS5020A – Data Science in Practice: Deployment and Ethics
+- **Project:** Scalable data pipeline using Apache Spark for model training and deployment with ethical evaluation.
+- **Skills:** Big data preprocessing, Spark DataFrames, distributed computation, responsible AI principles.
+- **Tech:** PySpark, pandas, matplotlib.  
+- 🔗 *Repo:* [Data_Science_in_Practice](https://github.com/yourusername/Data_Science_in_Practice)
+
+#### 🤖 COMS5026A – Applied Machine Learning
+- **Project:** Comparative performance of supervised ML models (SVM, Random Forest, Logistic Regression).
+- **Skills:** Feature engineering, model evaluation, hyperparameter tuning.
+- **Tech:** Python (scikit-learn, seaborn, matplotlib).  
 - 🔗 *Repo:* [Applied_Machine_Learning](https://github.com/yourusername/Applied_Machine_Learning)
 
 ---
 
-### 🌍 Semester 2: Advanced Analytics & Systems
+### 🌍 Semester 2: Applied & Domain-Specific Data Science
 
-#### 🗺️ Spatio-Temporal Data Analytics
-- **Project:** Geostatistical interpolation of mine data (Cu concentration) using IDW, OK, and SK.  
-- **Skills:** Variogram modeling, spatial clustering, kriging, anisotropy detection.  
+#### 🧩 COMS5023A – Data Science in Education
+- **Project:** SQL-driven educational analytics system for student performance and retention prediction.
+- **Skills:** SQL joins, data aggregation, query optimization, and visualization.
+- **Tech:** SQL (MySQL / SQL Server), Python (pandas, matplotlib).  
+- 🔗 *Repo:* [Education_SQL_Analytics](https://github.com/yourusername/Education_SQL_Analytics)
+
+#### 🩺 COMS5027A – Health Analytics for Data Science
+- **Project:** Predictive analytics for heart attack risk, life expectancy, and health outcome classification.
+- **Skills:** Regression, classification, model interpretation, data visualization.
+- **Tech:** Python (pandas, scikit-learn, seaborn, matplotlib).  
+- 🔗 *Repo:* [Health_Analytics_Portfolio](https://github.com/yourusername/Health_Analytics_Portfolio)
+
+#### ⚗️ COMS5024A – Applications of Machine Learning in Chemistry
+- **Project:** K-Means clustering and PCA for mineral classification using Landsat-8 satellite imagery.
+- **Skills:** Dimensionality reduction, clustering, PCA, spectral analysis.
+- **Tech:** Python (sklearn, geopandas, matplotlib).  
+- 🔗 *Repo:* [Chemistry_ML_Applications](https://github.com/yourusername/Chemistry_ML_Applications)
+
+#### 🗺️ GEOL5013A – Spatio-Temporal Data Analytics
+- **Project:** Geostatistical interpolation of mine geochemical data using IDW, Ordinary and Simple Kriging.
+- **Skills:** Variogram modeling, anisotropy detection, spatial prediction, kriging maps.
 - **Tech:** Python (GeostatsPy, GSLIB, numpy, matplotlib).  
 - 🔗 *Repo:* [Geospatial_Analytics](https://github.com/yourusername/Geospatial_Analytics)
 
-#### 💬 Health Entrepreneurship & Ecosystems
-- **Project:** Mapping South Africa’s health ecosystem and identifying opportunities for innovation.  
-- **Skills:** System mapping, qualitative analysis, presentation design.  
-- **Tech:** Miro, PowerPoint, Canva, data storytelling.  
-- 🔗 *Repo:* [Health_Ecosystem_Project](https://github.com/yourusername/Health_Ecosystem_Project)
-
-#### 📊 Kenyan Protests Network Analysis (Data Journalism Project)
-- **Project:** Social network and sentiment analysis of June 2025 Kenyan protests dataset.  
-- **Skills:** Network centrality, PageRank, community detection, sentiment-over-time analysis.  
-- **Tech:** Python (NetworkX, NLTK, matplotlib, pandas).  
+#### 💬 SLLS5027A – Social Media Analysis in and for the Global South
+- **Project:** Social network and sentiment analysis of June 2025 Kenyan protests dataset.
+- **Skills:** Network centrality, PageRank, community detection, temporal sentiment tracking.
+- **Tech:** Python (NetworkX, NLTK, pandas, matplotlib).  
 - 🔗 *Repo:* [Protest_Network_Analysis](https://github.com/yourusername/Protest_Network_Analysis)
+
+---
+
+### 🌱 Summary of Tools & Technologies
+Python • SQL • Power BI • Pandas • Scikit-learn • PySpark • Matplotlib • Seaborn  
+Geopandas • NetworkX • GeostatsPy • GSLIB • NLTK • Git • Jupyter • RDKit  
 
 
 ---
